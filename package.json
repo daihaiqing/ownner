@@ -1,7 +1,7 @@
 {
-  "name": "ownner",
+  "name": "daihaiqing",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/daihaiqing/ownner.git"
   },
-  "author": "",
+  "author": "daihaiqing",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/daihaiqing/ownner/issues"
   },
-  "homepage": "https://github.com/daihaiqing/ownner#readme"
+  "homepage": "https://github.com/daihaiqing/ownner#readme",
+  "keywords": [
+    "yeah"
+  ]
 }
