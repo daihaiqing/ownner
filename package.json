@@ -18,5 +18,8 @@
   "homepage": "https://github.com/daihaiqing/ownner#readme",
   "keywords": [
     "yeah"
-  ]
+  ],
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
